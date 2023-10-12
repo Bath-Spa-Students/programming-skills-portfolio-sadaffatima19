@@ -1,0 +1,1 @@
+print('Mahmoud Darwish once said, “And if happiness should surprise you again, do not mention its previous betrayal. Enter into the happiness, and burst."')
