@@ -5,7 +5,6 @@ move it to the list of finished sandwiches. After all the sandwiches have been m
 sandwich_orders = ["Egg Sandwich", "Chicken Sandwich", "Cheese Sandwich", "Club Sandwich"]
 finished_sandwiches = []
 
-print("\n")
 while sandwich_orders:
     new_sandwich = sandwich_orders.pop()
     print("I'm preparing your " + new_sandwich)
