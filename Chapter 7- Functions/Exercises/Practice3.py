@@ -10,4 +10,4 @@ def is_prime(number):
     else:
         print('The number {0} is NOT the prime number.'.format(number))
 
-  print(is_prime(2))
+print(is_prime(2))
