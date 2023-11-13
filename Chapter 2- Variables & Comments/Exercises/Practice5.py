@@ -2,9 +2,9 @@
 variables x, y and z and then print the values of each variable.'''
 
 fruits = ["Banana", "Mango", "Strawberry"]
-x = fruit[0]
-y = fruit[1]
-z = fruit[2]
+x = fruits[0]
+y = fruits[1]
+z = fruits[2]
 print(x)
 print(y)
 print(z)
